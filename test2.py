@@ -1,4 +1,4 @@
-li =[1,2,4.5,'a',2,"Uday"]
+# li =[1,2,4.5,'a',2,"Uday","Mitsuri"]
 # print(li)
 # li[4]="Mitsuri"
 # print(li)
@@ -10,5 +10,13 @@ li =[1,2,4.5,'a',2,"Uday"]
 # print(li)
 # li.remove(2,4.5)
 # print(li)
-li.pop(3,4,5)
-print(li)
+# li.pop(3,4,5)
+# print(li)
+n=int(input())
+# li=[]
+# for i in range(n):
+#     curr=int(input())
+#     li.append(curr)
+
+# print(li)    
+
